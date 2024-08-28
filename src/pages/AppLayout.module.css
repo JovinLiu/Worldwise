@@ -1,0 +1,8 @@
+.app {
+  margin: 2.5rem;
+  min-height: calc(100vh-5rem);
+  overscroll-behavior-y: none;
+  display: flex;
+  position: relative;
+  background-color: var(--color-dark--1);
+}

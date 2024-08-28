@@ -1,0 +1,13 @@
+.disclaimer {
+  color: var(--color-light--4);
+  text-align: center;
+  padding: 2rem;
+  background-color: var(--color-light--1);
+  border-radius: 20px;
+  margin-top: 1rem;
+  font-weight: 1;
+}
+
+.strong {
+  color: white;
+}
