@@ -18,15 +18,18 @@ import { useNavigate } from "react-router-dom";
 
 function Map() {
   const { cities } = useCities();
-  const [currentPosition, setCurrentPosition] = useState([30, 0]);
+  const [currentPosition, setCurrentPosition] = useState([
+    -37.81360547648188, 144.95946419755685,
+  ]);
   const [position, error, isLoading, setIsLoading] = useGeolocation();
   const [mapLat, mapLng] = useUrlPosition();
 
   useEffect(
     function () {
+      console.log(position);
       if (mapLat && mapLng) setCurrentPosition([mapLat, mapLng]);
     },
-    [mapLat, mapLng]
+    [mapLat, mapLng, position]
   );
 
   useEffect(
