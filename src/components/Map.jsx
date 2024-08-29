@@ -18,7 +18,7 @@ import { useNavigate } from "react-router-dom";
 
 function Map() {
   const { cities } = useCities();
-  const [currentPosition, setCurrentPosition] = useState([40, 0]);
+  const [currentPosition, setCurrentPosition] = useState([30, 0]);
   const [position, error, isLoading, setIsLoading] = useGeolocation();
   const [mapLat, mapLng] = useUrlPosition();
 

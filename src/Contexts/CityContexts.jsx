@@ -9,7 +9,7 @@ import {
 } from "react";
 
 const CityContexts = createContext();
-const BASE_URL = "http://localhost:9000";
+const BASE_URL = "https://json-server-theta-cyan.vercel.app";
 const initialState = {
   cities: [],
   isLoading: false,
@@ -90,7 +90,7 @@ function CityContextsProvier({ children }) {
     dispatch({ type: "loading" });
     try {
       const option = {
-        method: "post",
+        method: "POST",
         body: JSON.stringify(newCity),
         headers: { "Content-Type": "application/json" },
       };
