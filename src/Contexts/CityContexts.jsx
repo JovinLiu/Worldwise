@@ -9,7 +9,8 @@ import {
 } from "react";
 
 const CityContexts = createContext();
-const BASE_URL = "https://json-server-theta-cyan.vercel.app";
+const BASE_URL = `https://virtualdb.vercel.app`;
+// const BASE_URL = "http://localhost:9000";
 const initialState = {
   cities: [],
   isLoading: false,

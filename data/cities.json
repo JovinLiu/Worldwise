@@ -1,66 +1,6 @@
 {
   "cities": [
     {
-      "id": "57ac",
-      "cityName": "Zhangjiakou Shi",
-      "country": "China",
-      "emoji": "🇨🇳",
-      "date": "2024-02-27T08:30:40.823Z",
-      "notes": "Go home",
-      "position": {
-        "lat": "40.79511845088481",
-        "lng": "114.88601803779603"
-      }
-    },
-    {
-      "id": "9bb6",
-      "cityName": "Beijing",
-      "country": "China",
-      "emoji": "🇨🇳",
-      "date": "2024-02-27T08:31:19.083Z",
-      "notes": "Visit my friend",
-      "position": {
-        "lat": "39.83701367933542",
-        "lng": "116.36856079101564"
-      }
-    },
-    {
-      "id": "6876",
-      "cityName": "Yangzhou",
-      "country": "China",
-      "emoji": "🇨🇳",
-      "date": "2024-02-27T08:32:46.814Z",
-      "notes": "visit my wife",
-      "position": {
-        "lat": "32.39748309282005",
-        "lng": "119.43563461303712"
-      }
-    },
-    {
-      "id": "381b",
-      "cityName": "Haikou",
-      "country": "China",
-      "emoji": "🇨🇳",
-      "date": "2024-02-27T08:33:14.749Z",
-      "notes": "I was living there for a couple of months",
-      "position": {
-        "lat": "20.071370340405668",
-        "lng": "110.34685134887697"
-      }
-    },
-    {
-      "id": "0ec6",
-      "cityName": "Haikou",
-      "country": "China",
-      "emoji": "🇨🇳",
-      "date": "2024-02-27T08:33:44.441Z",
-      "notes": "I worked for this company",
-      "position": {
-        "lat": "20.009161356586482",
-        "lng": "110.34985542297365"
-      }
-    },
-    {
       "id": "9b3a",
       "cityName": "Melbourne",
       "country": "Australia",
@@ -70,18 +10,6 @@
       "position": {
         "lat": "-37.79137108967378",
         "lng": "145.31090497970584"
-      }
-    },
-    {
-      "id": "b63e",
-      "cityName": "Melbourne",
-      "country": "Australia",
-      "emoji": "🇦🇺",
-      "date": "2024-02-27T08:35:22.447Z",
-      "notes": "I was working here",
-      "position": {
-        "lat": "-37.832369891751334",
-        "lng": "144.95243310928348"
       }
     },
     {
@@ -109,39 +37,87 @@
       }
     },
     {
-      "id": "c86c",
-      "cityName": "Cleveland",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2024-02-29T12:47:57.838Z",
-      "notes": "",
+      "id": "8b2c",
+      "cityName": "Hong Kong",
+      "country": "Hong Kong",
+      "emoji": "🇭🇰",
+      "date": "2024-08-30T02:13:15.690Z",
+      "notes": "I visited here last year, Amazing!!!",
       "position": {
-        "lat": "42.553080288955826",
-        "lng": "-100.72265625000001"
+        "lat": "22.26403224249979",
+        "lng": "114.16592580133441"
       }
     },
     {
-      "id": "e0a2",
-      "cityName": "Township of Cherokee",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2024-02-29T12:49:13.779Z",
-      "notes": "",
-      "position": {
-        "lat": "37.09407380187568",
-        "lng": "-95.57315826416017"
-      }
-    },
-    {
-      "id": "48d8",
-      "cityName": "Dargo",
+      "id": "75ab",
+      "cityName": "Sydney",
       "country": "Australia",
       "emoji": "🇦🇺",
-      "date": "2024-02-29T12:51:13.211Z",
-      "notes": "",
+      "date": "2024-08-30T02:14:03.869Z",
+      "notes": "I visited Sydney Opera many years ago",
       "position": {
-        "lat": "-37.26530995561875",
-        "lng": "147.26074218750003"
+        "lat": "-33.85776805160387",
+        "lng": "151.21464389954374"
+      }
+    },
+    {
+      "id": "08e9",
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2024-08-30T02:14:45.270Z",
+      "notes": "I visited here when I was really young.",
+      "position": {
+        "lat": "35.674965862236526",
+        "lng": "139.79678659830245"
+      }
+    },
+    {
+      "id": "4fd4",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-30T02:15:11.361Z",
+      "notes": "I visited here when I was 8",
+      "position": {
+        "lat": "48.87646356725027",
+        "lng": "2.374464721838736"
+      }
+    },
+    {
+      "id": "abf3",
+      "cityName": "Dindigul",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-08-30T02:15:41.602Z",
+      "notes": "Amazing cities and amazing culture",
+      "position": {
+        "lat": "10.330914629660091",
+        "lng": "77.96139077087582"
+      }
+    },
+    {
+      "id": "cb86",
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-08-30T02:16:04.571Z",
+      "notes": "Amazing Pyramid tour",
+      "position": {
+        "lat": "30.037981915323126",
+        "lng": "31.25938554512506"
+      }
+    },
+    {
+      "id": "9bb6",
+      "cityName": "Beijing",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2024-02-27T08:31:19.083Z",
+      "notes": "Visit my friend",
+      "position": {
+        "lat": "39.83701367933542",
+        "lng": "116.36856079101564"
       }
     }
   ]
